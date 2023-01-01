@@ -1,0 +1,11 @@
+﻿Place_index,Place_name,"Latitude, Longitude",Neighbors_indeice,Neighbors_wight
+1,Children's Medical Center,"35.7058416,51.3829665","2,3,4","6-2,4-3,6-4"
+2,Imam Khomeini Hospital,"35.7083354,51.3806963","1,5","2-6,8-19"
+3,Laleh Park,"35.7118933,51.3890112","1,5","3-4,4-17"
+4,Persian Cat Museum,"35.7074702,51.3980569","1,5","4-6,7-15"
+5,"University of Tehran, College of Engineering","35.7242279,51.3883588","2,3,4,6,7","19-8,17-4,15-7,10-8,9-13"
+6,Tabiat Bridge,"35.7575941,51.4162583","5,7,8,9","8-10,11-9,5-4,7-5"
+7,Shahid Haqqani Metro Station,"35.7562669,51.4265943","5,6,9","13-9,9-11,9-11"
+8,Paytakht Computer Complex,"35.7627882,51.4109852","6,9,10","4-5,5-5,7-9"
+9,AliAsghar Children's Hospital,"35.7673122,51.425892","6,7,8,10","5-7,11-9,5-5,7-12"
+10,Mellat Park,"35.7793376,51.4091636","8,9","9-7,12-7"
